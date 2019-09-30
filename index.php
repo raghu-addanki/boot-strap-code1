@@ -3,7 +3,7 @@
 <body>
 <h1>
 <center>
-<IMG SRC="eic.jpg" ALT="eic"><br>
+<IMG SRC="c-logo.png" ALT="c-logo"><br>
 <?php
 echo $_SERVER['SERVER_ADDR'];
 ?>
