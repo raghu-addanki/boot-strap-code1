@@ -1,5 +1,5 @@
 <html>
-<title> FAILOVER TO VIRGINIA </title>
+<title> VIRGINIA </title>
 <body>
 <h1>
 <center>
