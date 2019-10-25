@@ -1,5 +1,5 @@
 <html>
-<title> CLOUDGEEKS CLASS OF ELB/ASG DEMO-Mumbai </title>
+<title> CLOUDGEEKS CLASS OF ELB/ASG DEMO-Virginia-US </title>
 <body>
 <h1>
 <center>
