@@ -5,9 +5,9 @@
 <center>
 <IMG SRC="clogo.png" ALT="clogo"><br>
 <?php
-  echo "AWS Instance Internal IP";
+  echo "Internal IP:-";
 echo $_SERVER['SERVER_ADDR'];
-  echo "| Your IP";
+  echo "| Your IP:-";<br />
   // PHP code to extract IP  
   
 function getVisIpAddr() { 
