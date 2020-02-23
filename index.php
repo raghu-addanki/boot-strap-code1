@@ -6,6 +6,7 @@
 <IMG SRC="clogo.png" ALT="clogo"><br>
 <?php
 echo $_SERVER['SERVER_ADDR'];
+  echo "| Your IP";
   // PHP code to extract IP  
   
 function getVisIpAddr() { 
