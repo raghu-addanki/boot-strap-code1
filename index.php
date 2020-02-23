@@ -7,7 +7,7 @@
 <?php
   echo "Internal IP:-";
 echo $_SERVER['SERVER_ADDR'];
-  echo "| Your IP:-";<br />
+  echo "          | Your IP:-";
   // PHP code to extract IP  
   
 function getVisIpAddr() { 
