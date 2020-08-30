@@ -3,7 +3,7 @@
 <body>
 <h1>
 <center>
-<IMG SRC="clogo.png" ALT="clogo"><br>
+<IMG SRC="303.png" ALT="303"><br>
 <?php
   echo "Internal IP:-";
 echo $_SERVER['SERVER_ADDR'];
